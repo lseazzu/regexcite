@@ -1,3 +1,6 @@
+#Any file that has rproj, ignore
+*.Rproj
+
 # History files
 .Rhistory
 .Rapp.history
